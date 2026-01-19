@@ -1,0 +1,7 @@
+{
+  "keyboard": "keychron/v6_max/iso_encoder",
+  "keymap": "layer3_f12_rgb",
+  "modules": [
+    "signalrgb"
+  ]
+}
