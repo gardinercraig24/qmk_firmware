@@ -1,2 +1,4 @@
 VIA_ENABLE = yes
+RGB_MATRIX_ENABLE = yes
+RAW_ENABLE = yes
 COMMUNITY_MODULES += signalrgb
