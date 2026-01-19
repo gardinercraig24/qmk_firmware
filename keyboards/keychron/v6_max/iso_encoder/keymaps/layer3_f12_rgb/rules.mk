@@ -1,1 +1,2 @@
 VIA_ENABLE = yes
+COMMUNITY_MODULES += signalrgb
